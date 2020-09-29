@@ -1,0 +1,296 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#navbar
+{
+    display: flex;
+    align-items: center;
+}
+#logo
+{
+    margin: 10px 25px;
+}
+.foodie
+{
+    border-radius: 50%;
+    width: 50px;
+}
+#navbar
+{
+    position: relative;
+}
+#navbar ul
+{
+    display: flex;
+}
+#navbar::before
+{
+    content: "";
+    background-color: rgb(240, 3, 3);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+
+}
+#navbar ul li
+{
+    list-style: none;
+    font-size: 1.3em;
+    
+}
+#navbar ul li a
+{
+    color: white;
+    display: block;
+    padding: 4px 22px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+#navbar ul li a:hover
+{
+    color: black;
+    background-color: white;
+}
+h1
+{
+    text-align: center;
+    font-weight: bold;
+    
+}
+h4
+{
+    color: red;
+}
+.snack-container
+{
+    
+    
+    border: solid purple;
+    padding: 10px;
+    border-radius: 20px;
+}
+.first
+{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 10px;
+    
+    padding: 10px;
+    border-radius: 20px;
+}
+.second
+{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.third
+{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+   
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.fourth
+{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+   
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.fifth
+{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+   
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.sixth
+{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+   
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.s1
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.s3
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.s4
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.s5
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.s6
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.s7
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.s8
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.s9
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.s10
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.s11
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.s12
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.s13
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.n1
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.n2
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.n3
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.n4
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.n5
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.n6
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.n7
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.n8
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.p1
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.p2
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.p3
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.p4
+{
+    border: solid purple;
+    padding: 10px;
+    border-radius: 25px;
+}
+.footer-container
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.footer-container p1
+{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+hr
+{
+    width: 20%;
+    left: 40%;
+    position: relative;
+    margin-bottom: 10px;
+}

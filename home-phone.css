@@ -1,0 +1,55 @@
+#menu
+{
+    flex-direction: column;
+} 
+#menu .box1
+{
+    
+    margin-left: 250px;
+    margin-right: 250px;
+    
+}
+#menu .box2
+{
+   
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 20px;
+}
+#menu .box3
+{
+   
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 20px;
+}
+#menu .box4
+{
+   
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 20px;
+}
+.service-container
+{
+    flex-direction: column;
+}
+.service-container .ser1
+{
+    
+    margin-left: 300px;
+    margin-right: 300px;
+    justify-content: center;
+}
+.service-container .ser2
+{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+}
+.service-container .ser3
+{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+}
