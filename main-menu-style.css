@@ -58,13 +58,19 @@
 h1
 {
     text-align: center;
-    font-weight: bold;
-    
+    text-shadow: 0px 0px 0 rgb(236, 128, 109),
+                 1px 1px 0 rgb(236, 78, 196),
+                 2px 2px 0 rgb(228, 34, 28);
+    font-family: fantasy;
+    font-size: 50px;
+
 }
 
 h4
 {
     color: red;
+    font-size: 25px;
+    font-family: cursive;
 }
 .menu-container
 {
@@ -138,146 +144,289 @@ h4
     border: solid purple;
     padding: 10px;
     border-radius: 25px;
+    transition: 2s;
+}
+.m1:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .m2
 {
     border: solid purple;
     padding: 10px;
     border-radius: 25px;
+    transition: 2s;
 }
+.m2:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .m3
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
 }
+.m3:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .m4
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
 }
+.m4:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .m5
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
 }
+.m5:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .m6
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
 }
+.m6:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .m7
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
 }
+.m7:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .m8
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
 }
+.m8:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .c1
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
 }
+.c1:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .c2
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.c2:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .c3
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.c3:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .c4
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.c4:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .c5
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.c5:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .c6
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.c6:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .c7
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.c7:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .c8
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.c8:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 
 .r1
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.r1:hover
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .r2
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
 }
+.r2:hover
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .r3
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
 }
+.r3:hover
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .r4
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
 }
+.r4:hover
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .ri1
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
 }
+.ri1:hover
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .ri2
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
 }
+.ri2:hover
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .ri3
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
 }
+.ri3:hover
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .ri4
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
 }
+.ri4:hover
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .footer-container
 {
     background-color: black;

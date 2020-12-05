@@ -57,12 +57,18 @@
 h1
 {
     text-align: center;
-    font-weight: bold;
+    text-shadow: 0px 0px 0 rgb(236, 128, 109),
+                 1px 1px 0 rgb(236, 78, 196),
+                 2px 2px 0 rgb(228, 34, 28);
+    font-family: fantasy;
+    font-size: 50px;
     
 }
 h4
 {
     color: red;
+    font-size: 25px;
+    font-family: cursive;
 }
 .sweets-container1
 {
@@ -105,73 +111,145 @@ h4
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.t1:hover 
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .t2
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.t2:hover 
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .t3
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.t3:hover 
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .t4
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.t4:hover 
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .t5
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.t5:hover 
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .t6
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.t6:hover 
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .t7
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.t7:hover 
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .t8
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.t8:hover 
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .i1
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.i1:hover 
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .i2
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.i2:hover 
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .i3
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.i3:hover 
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .i4
 {
     border: solid purple;
     padding: 10px;
+    transition: 2s;
     border-radius: 25px;
+}
+.i4:hover 
+{
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .footer-container
 {

@@ -58,11 +58,10 @@
 {
     
     width: 45%;
-    left: 25%;
+    left: 28%;
     margin-top: 3em;
     margin-bottom: 2em;
     position: relative;
-    
     
 }
 h3
@@ -118,6 +117,7 @@ h3
         transform: translateY(0);
     }
 }
+
 #menu
 {
     display: flex;
@@ -312,7 +312,7 @@ h5
     font-size: 1.2rem;
     cursor: pointer;
     border: solid black;
-    
+    font-family: cursive;
 }
 .btn:hover
 {

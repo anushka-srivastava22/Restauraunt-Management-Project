@@ -57,12 +57,17 @@
 h1
 {
     text-align: center;
-    font-weight: bold;
-    
+    text-shadow: 0px 0px 0 rgb(236, 128, 109),
+                 1px 1px 0 rgb(236, 78, 196),
+                 2px 2px 0 rgb(228, 34, 28);
+    font-family: fantasy;
+    font-size: 50px;
 }
 h4
 {
     color: red;
+    font-size: 25px;
+    font-family: cursive;
 }
 .pack-container
 {
@@ -85,7 +90,6 @@ h4
     display: flex;
     justify-content: space-around;
     text-align: center;
-    
     padding: 10px;
     margin-top: 10px;
     border-radius: 20px;
@@ -95,49 +99,96 @@ h4
     border: solid purple;
     padding: 10px;
     border-radius: 25px;
+    transition: 2s;
+}
+.o1:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
 }
 .o2
 {
     border: solid purple;
     padding: 10px;
     border-radius: 25px;
+    transition: 2s;
 }
+.o2:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .o3
 {
     border: solid purple;
     padding: 10px;
     border-radius: 25px;
+    transition: 2s;
 }
+.o3:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .o4
 {
     border: solid purple;
     padding: 10px;
     border-radius: 25px;
+    transition: 2s;
 }
+.o4:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .o5
 {
     border: solid purple;
     padding: 10px;
     border-radius: 25px;
+    transition: 2s;
 }
+.o5:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .o6
 {
     border: solid purple;
     padding: 10px;
     border-radius: 25px;
+    transition: 2s;
 }
+.o6:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .o7
 {
     border: solid purple;
     padding: 10px;
     border-radius: 25px;
+    transition: 2s;
 }
+.o7:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .o8
 {
     border: solid purple;
     padding: 10px;
     border-radius: 25px;
+    transition: 2s;
 }
+.o8:hover {
+    transform: scale(1.07);
+    box-shadow: 0 5px 15px rgb(230, 62, 160);
+}
+
 .footer-container
 {
     background-color: black;
